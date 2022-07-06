@@ -1,0 +1,728 @@
+Season,Episode,Title,Year,Total votes,Average rating,z-score
+1,1,Simpsons Roasting on an Open Fire,1989,"7,412.00",8.10,1.12
+1,2,Bart the Genius,1990,"4,920.00",7.70,0.64
+1,3,Homer's Odyssey,1990,"4,333.00",7.30,0.15
+1,4,There's No Disgrace Like Home,1990,"4,270.00",7.70,0.64
+1,5,Bart the General,1990,"4,600.00",7.90,0.88
+1,6,Moaning Lisa,1990,"4,147.00",7.60,0.51
+1,7,The Call of the Simpsons,1990,"4,008.00",7.80,0.76
+1,8,The Telltale Head,1990,"3,858.00",7.60,0.51
+1,9,Life on the Fast Lane,1990,"3,823.00",7.40,0.27
+1,10,Homer's Night Out,1990,"3,706.00",7.30,0.15
+1,11,The Crepes of Wrath,1990,"3,767.00",7.80,0.76
+1,12,Krusty Gets Busted,1990,"4,151.00",8.30,1.37
+1,13,Some Enchanted Evening,1990,"4,094.00",7.70,0.64
+2,1,Bart Gets an F,1990,"4,145.00",8.20,1.24
+2,2,Simpson and Delilah,1990,"4,247.00",8.20,1.24
+2,3,Treehouse of Horror,1990,"4,375.00",8.20,1.24
+2,4,Two Cars in Every Garage and Three Eyes on Every Fish,1990,"3,600.00",8.00,1.00
+2,5,Dancin' Homer,1990,"3,422.00",7.40,0.27
+2,6,Dead Putting Society,1990,"3,376.00",8.00,1.00
+2,7,Bart vs. Thanksgiving,1990,"3,299.00",7.70,0.64
+2,8,Bart the Daredevil,1990,"3,653.00",8.30,1.37
+2,9,Itchy & Scratchy & Marge,1990,"3,729.00",8.10,1.12
+2,10,Bart Gets Hit by a Car,1991,"3,260.00",7.80,0.76
+2,11,"One Fish, Two Fish, Blowfish, Blue Fish",1991,"4,428.00",8.80,1.97
+2,12,The Way We Was,1991,"3,435.00",8.20,1.24
+2,13,Homer vs. Lisa and the 8th Commandment,1991,"3,215.00",8.00,1.00
+2,14,Principal Charming,1991,"3,078.00",7.50,0.39
+2,15,"Oh Brother, Where Art Thou?",1991,"3,440.00",8.30,1.37
+2,16,Bart's Dog Gets an F,1991,"3,044.00",7.50,0.39
+2,17,Old Money,1991,"3,025.00",7.60,0.51
+2,18,Brush with Greatness,1991,"3,071.00",7.90,0.88
+2,19,Lisa's Substitute,1991,"4,210.00",8.60,1.73
+2,20,The War of the Simpsons,1991,"3,005.00",7.80,0.76
+2,21,Three Men and a Comic Book,1991,"3,595.00",8.30,1.37
+2,22,Blood Feud,1991,"2,961.00",7.80,0.76
+3,1,Stark Raving Dad,1991,"4,353.00",8.60,1.73
+3,2,Mr. Lisa Goes to Washington,1991,"3,136.00",7.70,0.64
+3,3,When Flanders Failed,1991,"3,278.00",8.20,1.24
+3,4,Bart the Murderer,1991,"3,917.00",8.60,1.73
+3,5,Homer Defined,1991,"3,699.00",8.40,1.49
+3,6,"Like Father, Like Clown",1991,"3,022.00",7.60,0.51
+3,7,Treehouse of Horror II,1991,342.00,8.20,1.24
+3,8,Lisa's Pony,1991,"2,974.00",7.90,0.88
+3,9,Saturdays of Thunder,1991,"2,966.00",7.90,0.88
+3,10,Flaming Moe's,1991,"3,879.00",8.80,1.97
+3,11,Burns Verkaufen der Kraftwerk,1991,"3,071.00",8.20,1.24
+3,12,I Married Marge,1991,"2,979.00",8.30,1.37
+3,13,Radio Bart,1992,"3,291.00",8.50,1.61
+3,14,Lisa the Greek,1992,"2,839.00",8.00,1.00
+3,15,Homer Alone,1992,"2,867.00",8.00,1.00
+3,16,Bart the Lover,1992,"3,383.00",8.30,1.37
+3,17,Homer at the Bat,1992,"4,002.00",8.70,1.85
+3,18,Separate Vocations,1992,"2,885.00",8.20,1.24
+3,19,Dog of Death,1992,"2,746.00",7.70,0.64
+3,20,Colonel Homer,1992,"2,990.00",8.00,1.00
+3,21,Black Widower,1992,"2,984.00",8.30,1.37
+3,22,The Otto Show,1992,"2,812.00",7.70,0.64
+3,23,Bart's Friend Falls in Love,1992,"2,774.00",7.70,0.64
+3,24,"Brother, Can You Spare Two Dimes?",1992,"2,914.00",8.20,1.24
+4,1,Kamp Krusty,1992,"3,441.00",8.50,1.61
+4,2,A Streetcar Named Marge,1992,"3,150.00",8.10,1.12
+4,3,Homer the Heretic,1992,"4,427.00",8.90,2.10
+4,4,Lisa the Beauty Queen,1992,"2,877.00",7.70,0.64
+4,5,Treehouse of Horror III,1992,"3,398.00",8.40,1.49
+4,6,Itchy & Scratchy: The Movie,1992,"3,068.00",8.20,1.24
+4,7,Marge Gets a Job,1992,"2,764.00",7.80,0.76
+4,8,New Kid on the Block,1992,"3,002.00",8.20,1.24
+4,9,Mr. Plow,1992,"3,851.00",8.80,1.97
+4,10,Lisa's First Word,1992,"3,282.00",8.70,1.85
+4,11,Homer's Triple Bypass,1992,"3,642.00",8.60,1.73
+4,12,Marge vs. the Monorail,1993,"4,905.00",9.10,2.34
+4,13,Selma's Choice,1993,"2,791.00",8.00,1.00
+4,14,Brother from the Same Planet,1993,"2,829.00",8.20,1.24
+4,15,I Love Lisa,1993,"3,071.00",8.40,1.49
+4,16,Duffless,1993,"2,886.00",8.40,1.49
+4,17,Last Exit to Springfield,1993,"4,481.00",9.00,2.22
+4,18,So It's Come to This: A Simpsons Clip Show,1993,"2,571.00",7.00,-0.22
+4,19,The Front,1993,"2,669.00",8.10,1.12
+4,20,Whacking Day,1993,"2,877.00",8.10,1.12
+4,21,Marge in Chains,1993,"2,624.00",7.70,0.64
+4,22,Krusty Gets Kancelled,1993,"2,926.00",8.10,1.12
+5,1,Homer's Barbershop Quartet,1993,"3,421.00",8.50,1.61
+5,2,Cape Feare,1993,"4,873.00",9.10,2.34
+5,3,Homer Goes to College,1993,"3,450.00",8.60,1.73
+5,4,Rosebud,1993,"3,802.00",8.80,1.97
+5,5,Treehouse of Horror IV,1993,"3,556.00",8.80,1.97
+5,6,Marge on the Lam,1993,"2,737.00",8.00,1.00
+5,7,Bart's Inner Child,1993,"2,583.00",7.60,0.51
+5,8,Boy Scoutz 'n the Hood,1993,"3,435.00",8.60,1.73
+5,9,The Last Temptation of Homer,1993,"3,086.00",8.50,1.61
+5,10,"$pringfield (Or, How I Learned to Stop Worrying and Love Lega...",1993,"3,133.00",8.50,1.61
+5,11,Homer the Vigilante,1994,"2,844.00",8.20,1.24
+5,12,Bart Gets Famous,1994,"2,721.00",8.10,1.12
+5,13,Homer and Apu,1994,"2,782.00",8.20,1.24
+5,14,Lisa vs. Malibu Stacy,1994,"3,094.00",8.10,1.12
+5,15,Deep Space Homer,1994,"3,745.00",8.80,1.97
+5,16,Homer Loves Flanders,1994,"3,188.00",8.50,1.61
+5,17,Bart Gets an Elephant,1994,"2,650.00",7.80,0.76
+5,18,Burns' Heir,1994,"3,033.00",8.30,1.37
+5,19,Sweet Seymour Skinner's Baadasssss Song,1994,"3,105.00",8.30,1.37
+5,20,The Boy Who Knew Too Much,1994,"2,645.00",8.30,1.37
+5,21,Lady Bouvier's Lover,1994,"2,393.00",7.50,0.39
+5,22,Secrets of a Successful Marriage,1994,"2,528.00",8.00,1.00
+6,1,Bart of Darkness,1994,"3,274.00",8.70,1.85
+6,2,Lisa's Rival,1994,"2,765.00",8.10,1.12
+6,3,Another Simpsons Clip Show,1994,"2,439.00",5.80,-1.67
+6,4,Itchy & Scratchy Land,1994,"3,108.00",8.60,1.73
+6,5,Sideshow Bob Roberts,1994,"2,725.00",8.20,1.24
+6,6,Treehouse of Horror V,1994,"4,335.00",9.20,2.46
+6,7,Bart's Girlfriend,1994,"2,716.00",8.10,1.12
+6,8,Lisa on Ice,1994,"2,972.00",8.60,1.73
+6,9,Homer Badman,1994,"4,100.00",8.90,2.10
+6,10,Grampa vs. Sexual Inadequacy,1994,"2,534.00",8.10,1.12
+6,11,Fear of Flying,1994,"2,582.00",7.70,0.64
+6,12,Homer the Great,1995,"3,801.00",9.00,2.22
+6,13,And Maggie Makes Three,1995,"3,331.00",8.80,1.97
+6,14,Bart's Comet,1995,"2,977.00",8.70,1.85
+6,15,Homie the Clown,1995,"3,004.00",8.60,1.73
+6,16,Bart vs. Australia,1995,"31,400.00",8.50,1.61
+6,17,Homer vs. Patty and Selma,1995,"2,417.00",7.80,0.76
+6,18,A Star Is Burns,1995,"2,947.00",8.50,1.61
+6,19,Lisa's Wedding,1995,"2,825.00",8.30,1.37
+6,20,Two Dozen and One Greyhounds,1995,"2,521.00",8.10,1.12
+6,21,The PTA Disbands,1995,"2,471.00",8.00,1.00
+6,22,Round Springfield,1995,"2,871.00",8.20,1.24
+6,23,The Springfield Connection,1995,"2,510.00",8.20,1.24
+6,24,Lemon of Troy,1995,"3,114.00",8.70,1.85
+6,25,Who Shot Mr. Burns? Part One,1995,"3,988.00",9.20,2.46
+7,1,Who Shot Mr. Burns? Part Two,1995,"3,624.00",9.00,2.22
+7,2,Radioactive Man,1995,"2,728.00",8.30,1.37
+7,3,Home Sweet Home-Dum-Diddly Doodily,1995,"2,657.00",8.40,1.49
+7,4,Bart Sells His Soul,1995,"3,588.00",8.80,1.97
+7,5,Lisa the Vegetarian,1995,"3,307.00",8.50,1.61
+7,6,Treehouse of Horror VI,1995,"3,129.00",8.60,1.73
+7,7,King Size Homer,1995,"3,989.00",9.00,2.22
+7,8,Mother Simpson,1995,"2,961.00",8.70,1.85
+7,9,Sideshow Bob's Last Gleaming,1995,"2,440.00",8.00,1.00
+7,10,The Simpsons 138th Episode Spectacular!,1995,"2,400.00",7.40,0.27
+7,11,Marge Be Not Proud,1995,"3,189.00",8.50,1.61
+7,12,Team Homer,1996,"2,506.00",8.30,1.37
+7,13,Two Bad Neighbors,1996,"3,233.00",8.50,1.61
+7,14,Scenes from the Class Struggle in Springfield,1996,"2,286.00",7.70,0.64
+7,15,Bart the Fink,1996,"2,253.00",7.70,0.64
+7,16,Lisa the Iconoclast,1996,"2,466.00",8.10,1.12
+7,17,Homer the Smithers,1996,"3,617.00",8.80,1.97
+7,18,The Day the Violence Died,1996,"2,418.00",8.00,1.00
+7,19,A Fish Called Selma,1996,"2,856.00",8.20,1.24
+7,20,Bart on the Road,1996,"3,148.00",8.60,1.73
+7,21,22 Short Films About Springfield,1996,"3,483.00",8.90,2.10
+7,22,Raging Abe Simpson and His Grumbling Grandson in 'The Curse o...,1996,"2,625.00",8.50,1.61
+7,23,Much Apu About Nothing,1996,"2,347.00",8.10,1.12
+7,24,Homerpalooza,1996,"2,459.00",8.00,1.00
+7,25,"Summer of 4'2""",1996,"2,667.00",8.40,1.49
+8,1,Treehouse of Horror VII,1996,"2,904.00",8.40,1.49
+8,2,You Only Move Twice,1996,"5,535.00",9.20,2.46
+8,3,The Homer They Fall,1996,"2,526.00",8.10,1.12
+8,4,"Burns, Baby Burns",1996,"2,464.00",7.70,0.64
+8,5,Bart After Dark,1996,"2,592.00",8.30,1.37
+8,6,A Milhouse Divided,1996,"2,443.00",8.10,1.12
+8,7,Lisa's Date with Density,1996,"2,375.00",7.80,0.76
+8,8,Hurricane Neddy,1996,"3,340.00",8.70,1.85
+8,9,El Viaje Misterioso de Nuestro Jomer,1997,"3,314.00",8.60,1.73
+8,10,The Springfield Files,1997,"4,066.00",9.00,2.22
+8,11,The Twisted World of Marge Simpson,1997,"2,324.00",7.70,0.64
+8,12,Mountain of Madness,1997,"3,064.00",8.50,1.61
+8,13,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,1997,"2,602.00",7.70,0.64
+8,14,The Itchy & Scratchy & Poochie Show,1997,"2,528.00",7.90,0.88
+8,15,Homer's Phobia,1997,"3,814.00",8.80,1.97
+8,16,Brother from Another Series,1997,"2,552.00",8.20,1.24
+8,17,"My Sister, My Sitter",1997,"2,690.00",7.90,0.88
+8,18,Homer vs. the 18th Amendment,1997,"3,106.00",8.80,1.97
+8,19,Grade School Confidential,1997,"2,713.00",8.20,1.24
+8,20,The Canine Mutiny,1997,"2,169.00",7.60,0.51
+8,21,The Old Man and the Lisa,1997,"2,288.00",7.90,0.88
+8,22,In Marge We Trust,1997,"2,371.00",8.10,1.12
+8,23,Homer's Enemy,1997,"5,762.00",9.30,2.58
+8,24,The Simpsons Spin-Off Showcase,1997,"2,287.00",7.10,-0.09
+8,25,The Secret War of Lisa Simpson,1997,"2,256.00",7.80,0.76
+9,1,The City of New York vs. Homer Simpson,1997,"4,410.00",9.00,2.22
+9,2,The Principal and the Pauper,1997,"3,110.00",7.00,-0.22
+9,3,Lisa's Sax,1997,"2,266.00",8.10,1.12
+9,4,Treehouse of Horror VIII,1997,"2,457.00",8.20,1.24
+9,5,The Cartridge Family,1997,"2,500.00",8.20,1.24
+9,6,Bart Star,1997,"2,119.00",7.70,0.64
+9,7,The Two Mrs. Nahasapeemapetilons,1997,"2,055.00",7.70,0.64
+9,8,Lisa the Skeptic,1997,"2,264.00",8.10,1.12
+9,9,Realty Bites,1997,"2,046.00",7.60,0.51
+9,10,Miracle on Evergreen Terrace,1997,"2,259.00",7.60,0.51
+9,11,"All Singing, All Dancing",1998,"2,378.00",5.00,-2.65
+9,12,Bart Carny,1998,"2,143.00",7.70,0.64
+9,13,The Joy of Sect,1998,"2,384.00",8.30,1.37
+9,14,Das Bus,1998,"2,334.00",8.20,1.24
+9,15,The Last Temptation of Krust,1998,"1,993.00",7.50,0.39
+9,16,Dumbbell Indemnity,1998,"2,018.00",7.70,0.64
+9,17,Lisa the Simpson,1998,"2,245.00",8.00,1.00
+9,18,This Little Wiggy,1998,"2,108.00",7.90,0.88
+9,19,Simpson Tide,1998,"2,599.00",8.10,1.12
+9,20,The Trouble with Trillions,1998,"2,423.00",7.80,0.76
+9,21,Girly Edition,1998,"2,055.00",7.80,0.76
+9,22,Trash of the Titans,1998,"2,788.00",8.40,1.49
+9,23,King of the Hill,1998,"2,490.00",8.20,1.24
+9,24,Lost Our Lisa,1998,"1,980.00",7.70,0.64
+9,25,Natural Born Kissers,1998,"2,132.00",8.10,1.12
+10,1,Lard of the Dance,1998,"2,130.00",7.60,0.51
+10,2,The Wizard of Evergreen Terrace,1998,"2,555.00",8.10,1.12
+10,3,Bart the Mother,1998,"2,030.00",7.60,0.51
+10,4,Treehouse of Horror IX,1998,"2,378.00",8.10,1.12
+10,5,When You Dish Upon a Star,1998,"2,030.00",7.30,0.15
+10,6,D'oh-in' in the Wind,1998,"2,005.00",7.60,0.51
+10,7,Lisa Gets an 'A',1998,"2,105.00",8.10,1.12
+10,8,Homer Simpson in: 'Kidney Trouble',1998,"1,948.00",7.30,0.15
+10,9,Mayored to the Mob,1998,"2,502.00",8.10,1.12
+10,10,Viva Ned Flanders,1999,"2,092.00",7.90,0.88
+10,11,Wild Barts Can't Be Broken,1999,"1,965.00",7.70,0.64
+10,12,"Sunday, Cruddy Sunday",1999,"2,061.00",7.00,-0.22
+10,13,Homer to the Max,1999,"2,020.00",7.70,0.64
+10,14,I'm with Cupid,1999,"1,841.00",7.30,0.15
+10,15,Marge Simpson in: 'Screaming Yellow Honkers',1999,"1,847.00",7.30,0.15
+10,16,Make Room for Lisa,1999,"1,836.00",7.60,0.51
+10,17,Maximum Homerdrive,1999,"1,943.00",7.70,0.64
+10,18,Simpsons Bible Stories,1999,"1,897.00",7.40,0.27
+10,19,Mom and Pop Art,1999,"1,961.00",7.70,0.64
+10,20,The Old Man and the 'C' Student,1999,"1,740.00",7.30,0.15
+10,21,Monty Can't Buy Me Love,1999,"1,760.00",7.10,-0.09
+10,22,They Saved Lisa's Brain,1999,"1,782.00",7.30,0.15
+10,23,Thirty Minutes Over Tokyo,1999,"2,148.00",8.00,1.00
+11,1,Beyond Blunderdome,1999,"1,991.00",7.40,0.27
+11,2,Brother's Little Helper,1999,"1,764.00",7.50,0.39
+11,3,Guess Who's Coming to Criticize Dinner?,1999,"1,781.00",7.50,0.39
+11,4,Treehouse of Horror X,1999,"2,078.00",7.80,0.76
+11,5,E-I-E-I-(Annoyed Grunt),1999,"1,937.00",7.80,0.76
+11,6,"Hello Gutter, Hello Fadder",1999,"1,662.00",7.30,0.15
+11,7,Eight Misbehavin',1999,"1,688.00",7.00,-0.22
+11,8,"Take My Wife, Sleaze",1999,"1,719.00",7.10,-0.09
+11,9,Grift of the Magi,1999,"1,829.00",7.40,0.27
+11,10,Little Big Mom,2000,"1,640.00",7.40,0.27
+11,11,Faith Off,2000,"1,672.00",6.80,-0.46
+11,12,The Mansion Family,2000,"1,662.00",7.30,0.15
+11,13,Saddlesore Galactica,2000,"1,867.00",6.50,-0.82
+11,14,"Alone Again, Natura-Diddly",2000,"2,346.00",7.70,0.64
+11,15,Missionary: Impossible,2000,"1,745.00",7.30,0.15
+11,16,Pygmoelian,2000,"1,661.00",7.30,0.15
+11,17,Bart to the Future,2000,"1,846.00",7.10,-0.09
+11,18,Days of Wine and D'oh'ses,2000,"1,644.00",7.40,0.27
+11,19,Kill the Alligator and Run,2000,"1,811.00",6.60,-0.70
+11,20,Last Tap Dance in Springfield,2000,"1,636.00",7.10,-0.09
+11,21,"It's a Mad, Mad, Mad, Mad Marge",2000,"1,680.00",7.20,0.03
+11,22,Behind the Laughter,2000,"2,081.00",7.90,0.88
+12,1,Treehouse of Horror XI,2000,"1,967.00",7.60,0.51
+12,2,A Tale of Two Springfields,2000,"1,803.00",7.40,0.27
+12,3,Insane Clown Poppy,2000,"1,675.00",7.00,-0.22
+12,4,Lisa the Treehugger,2000,"1,684.00",7.20,0.03
+12,5,Homer vs. Dignity,2000,"1,754.00",7.00,-0.22
+12,6,The Computer Wore Menace Shoes,2000,"1,828.00",7.70,0.64
+12,7,The Great Money Caper,2000,"1,681.00",7.30,0.15
+12,8,Skinner's Sense of Snow,2000,"2,341.00",7.90,0.88
+12,9,HOMR,2001,"2,061.00",8.10,1.12
+12,10,Pokey Mom,2001,"1,995.00",7.10,-0.09
+12,11,Worst Episode Ever,2001,"1,728.00",7.40,0.27
+12,12,Tennis the Menace,2001,"1,686.00",6.80,-0.46
+12,13,Day of the Jackanapes,2001,"1,556.00",7.10,-0.09
+12,14,New Kids on the Blecch,2001,"1,833.00",7.20,0.03
+12,15,Hungry Hungry Homer,2001,"1,688.00",7.50,0.39
+12,16,Bye Bye Nerdy,2001,"1,641.00",6.70,-0.58
+12,17,Simpson Safari,2001,"1,669.00",6.80,-0.46
+12,18,Trilogy of Error,2001,"2,517.00",8.60,1.73
+12,19,I'm Goin' to Praiseland,2001,"1,928.00",7.20,0.03
+12,20,Children of a Lesser Clod,2001,"1,529.00",7.20,0.03
+12,21,Simpsons Tall Tales,2001,159.00,7.00,-0.22
+13,1,Treehouse of Horror XII,2001,"1,928.00",7.60,0.51
+13,2,The Parent Rap,2001,"1,582.00",7.10,-0.09
+13,3,Homer the Moe,2001,"1,561.00",7.20,0.03
+13,4,A Hunka Hunka Burns in Love,2001,"1,513.00",7.10,-0.09
+13,5,The Blunder Years,2001,"1,982.00",7.60,0.51
+13,6,She of Little Faith,2001,"1,632.00",7.10,-0.09
+13,7,Brawl in the Family,2002,"1,500.00",6.80,-0.46
+13,8,Sweets and Sour Marge,2002,"1,483.00",6.90,-0.34
+13,9,Jaws Wired Shut,2002,"1,537.00",7.30,0.15
+13,10,Half-Decent Proposal,2002,"1,879.00",7.30,0.15
+13,11,The Bart Wants What It Wants,2002,"1,457.00",7.00,-0.22
+13,12,The Lastest Gun in the West,2002,"1,485.00",6.50,-0.82
+13,13,The Old Man and the Key,2002,"1,440.00",6.50,-0.82
+13,14,Tales from the Public Domain,2002,"1,469.00",7.20,0.03
+13,15,Blame It on Lisa,2002,"1,531.00",7.00,-0.22
+13,16,Weekend at Burnsie's,2002,"1,697.00",7.70,0.64
+13,17,Gump Roast,2002,"1,593.00",5.50,-2.04
+13,18,I Am Furious Yellow,2002,162.00,7.70,0.64
+13,19,The Sweetest Apu,2002,"1,396.00",6.80,-0.46
+13,20,Little Girl in the Big Ten,2002,"1,430.00",7.10,-0.09
+13,21,The Frying Game,2002,"1,466.00",7.00,-0.22
+13,22,Papa's Got a Brand New Badge,2002,"2,068.00",7.80,0.76
+14,1,Treehouse of Horror XIII,2002,"1,804.00",7.60,0.51
+14,2,How I Spent My Strummer Vacation,2002,"1,615.00",7.40,0.27
+14,3,Bart vs. Lisa vs. 3rd Grade,2002,"1,518.00",7.10,-0.09
+14,4,Large Marge,2002,"1,564.00",7.10,-0.09
+14,5,Helter Shelter,2002,"1,484.00",6.80,-0.46
+14,6,The Great Louse Detective,2002,"1,528.00",7.30,0.15
+14,7,Special Edna,2003,"1,482.00",7.00,-0.22
+14,8,The Dad Who Knew Too Little,2003,"1,454.00",7.30,0.15
+14,9,The Strong Arms of the Ma,2003,"1,528.00",6.80,-0.46
+14,10,Pray Anything,2003,"1,400.00",6.80,-0.46
+14,11,Barting Over,2003,"1,499.00",6.70,-0.58
+14,12,I'm Spelling as Fast as I Can,2003,"1,413.00",7.20,0.03
+14,13,A Star Is Born Again,2003,"1,427.00",6.90,-0.34
+14,14,Mr. Spritz Goes to Washington,2003,"1,370.00",6.80,-0.46
+14,15,C.E.D'oh,2003,"1,307.00",7.20,0.03
+14,16,Scuse Me While I Miss the Sky,2003,"1,332.00",7.10,-0.09
+14,17,Three Gays of the Condo,2003,"1,478.00",7.20,0.03
+14,18,"Dude, Where's My Ranch?",2003,"1,487.00",6.90,-0.34
+14,19,Old Yeller-Belly,2003,"1,373.00",6.70,-0.58
+14,20,"Brake My Wife, Please",2003,"1,350.00",6.70,-0.58
+14,21,The Bart of War,2003,"1,390.00",6.60,-0.70
+14,22,Moe Baby Blues,2003,"2,019.00",7.60,0.51
+15,1,Treehouse of Horror XIV,2003,"1,760.00",7.50,0.39
+15,2,My Mother the Carjacker,2003,"1,442.00",7.20,0.03
+15,3,The President Wore Pearls,2003,"1,495.00",6.90,-0.34
+15,4,The Regina Monologues,2003,"1,559.00",7.00,-0.22
+15,5,The Fat and the Furriest,2003,"1,400.00",7.10,-0.09
+15,6,"Today, I Am a Clown",2003,"1,348.00",6.50,-0.82
+15,7,Tis the Fifteenth Season,2003,"1,410.00",7.10,-0.09
+15,8,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",2004,"1,374.00",6.70,-0.58
+15,9,"I, (Annoyed Grunt)-Bot",2004,"1,453.00",7.30,0.15
+15,10,Diatribe of a Mad Housewife,2004,"1,399.00",7.20,0.03
+15,11,Margical History Tour,2004,"1,368.00",7.10,-0.09
+15,12,Milhouse Doesn't Live Here Anymore,2004,"1,389.00",7.20,0.03
+15,13,Smart & Smarter,2004,"1,403.00",7.10,-0.09
+15,14,The Ziff Who Came to Dinner,2004,"1,340.00",6.70,-0.58
+15,15,Co-Dependent's Day,2004,"1,364.00",6.70,-0.58
+15,16,The Wandering Juvie,2004,"1,414.00",7.00,-0.22
+15,17,My Big Fat Geek Wedding,2004,"1,393.00",6.60,-0.70
+15,18,Catch 'Em If You Can,2004,"1,421.00",7.00,-0.22
+15,19,Simple Simpson,2004,"1,445.00",7.30,0.15
+15,20,The Way We Weren't,2004,"1,415.00",7.20,0.03
+15,21,Bart-Mangled Banner,2004,"1,382.00",6.40,-0.94
+15,22,Fraudcast News,2004,"1,336.00",7.20,0.03
+16,1,Treehouse of Horror XV,2004,"1,655.00",7.40,0.27
+16,2,All's Fair in Oven War,2004,"1,360.00",6.90,-0.34
+16,3,Sleeping with the Enemy,2004,"1,403.00",7.20,0.03
+16,4,She Used to Be My Girl,2004,"1,346.00",6.50,-0.82
+16,5,Fat Man and Little Boy,2004,"1,290.00",7.00,-0.22
+16,6,Midnight Rx,2005,"1,315.00",7.20,0.03
+16,7,Mommie Beerest,2005,"1,264.00",6.90,-0.34
+16,8,Homer and Ned's Hail Mary Pass,2005,"1,330.00",6.30,-1.07
+16,9,Pranksta Rap,2005,"1,383.00",6.60,-0.70
+16,10,There's Something About Marrying,2005,"1,367.00",6.90,-0.34
+16,11,On a Clear Day I Can't See My Sister,2005,"1,381.00",6.80,-0.46
+16,12,Goo Goo Gai Pan,2005,"1,366.00",7.00,-0.22
+16,13,Mobile Homer,2005,"1,282.00",6.80,-0.46
+16,14,The Seven-Beer Snitch,2005,"1,275.00",6.80,-0.46
+16,15,Future-Drama,2005,"1,440.00",7.30,0.15
+16,16,Don't Fear the Roofer,2005,"1,503.00",7.50,0.39
+16,17,The Heartbroke Kid,2005,"1,359.00",7.20,0.03
+16,18,A Star Is Torn,2005,"1,319.00",6.70,-0.58
+16,19,Thank God It's Doomsday,2005,"1,339.00",7.20,0.03
+16,20,Home Away from Homer,2005,"1,285.00",7.10,-0.09
+16,21,"The Father, the Son, and the Holy Guest Star",2005,"1,422.00",7.30,0.15
+17,1,The Bonfire of the Manatees,2005,"1,417.00",6.20,-1.19
+17,2,The Girl Who Slept Too Little,2005,"1,379.00",6.80,-0.46
+17,3,Milhouse of Sand and Fog,2005,"1,289.00",6.90,-0.34
+17,4,Treehouse of Horror XVI,2005,"1,568.00",7.30,0.15
+17,5,Marge's Son Poisoning,2005,"1,341.00",6.90,-0.34
+17,6,See Homer Run,2005,"1,308.00",6.80,-0.46
+17,7,The Last of the Red Hat Mamas,2005,"1,334.00",6.60,-0.70
+17,8,The Italian Bob,2005,"1,541.00",7.10,-0.09
+17,9,Simpsons Christmas Stories,2005,"1,335.00",6.80,-0.46
+17,10,Homer's Paternity Coot,2006,"1,328.00",6.70,-0.58
+17,11,We're on the Road to D'ohwhere,2006,"1,279.00",6.90,-0.34
+17,12,My Fair Laddy,2006,"1,314.00",6.50,-0.82
+17,13,The Seemingly Never-Ending Story,2006,"1,531.00",7.60,0.51
+17,14,Bart Has Two Mommies,2006,"1,300.00",7.00,-0.22
+17,15,"Homer Simpson, This Is Your Wife",2006,"1,629.00",6.50,-0.82
+17,16,Million Dollar Abie,2006,"1,394.00",6.30,-1.07
+17,17,"Kiss Kiss, Bang Bangalore",2006,"1,430.00",7.20,0.03
+17,18,The Wettest Stories Ever Told,2006,"1,304.00",6.70,-0.58
+17,19,Girls Just Want to Have Sums,2006,"1,397.00",7.20,0.03
+17,20,Regarding Margie,2006,"1,318.00",6.70,-0.58
+17,21,The Monkey Suit,2006,"1,357.00",7.10,-0.09
+17,22,Homer and Marge Turn a Couple Play,2006,"1,336.00",6.40,-0.94
+18,1,"The Mook, the Chef, the Wife and Her Homer",2006,"1,630.00",7.60,0.51
+18,2,Jazzy & The Pussycats,2006,"1,500.00",6.70,-0.58
+18,3,"Please Homer, Don't Hammer 'Em",2006,"1,411.00",6.80,-0.46
+18,4,Treehouse of Horror XVII,2006,"1,626.00",6.90,-0.34
+18,5,G.I. (Annoyed Grunt),2006,"1,414.00",6.80,-0.46
+18,6,Moe'N'a Lisa,2006,"1,368.00",6.70,-0.58
+18,7,Ice Cream of Margie (with the Light Blue Hair),2006,"1,349.00",6.90,-0.34
+18,8,The Haw-Hawed Couple,2006,"1,332.00",7.20,0.03
+18,9,"Kill Gil, Vol. 1 & 2",2006,"1,409.00",6.30,-1.07
+18,10,The Wife Aquatic,2007,"1,355.00",6.60,-0.70
+18,11,Revenge Is a Dish Best Served Three Times,2007,"1,317.00",7.00,-0.22
+18,12,Little Big Girl,2007,"1,426.00",6.80,-0.46
+18,13,Springfield Up,2007,"1,391.00",7.30,0.15
+18,14,Yokel Chords,2007,"1,374.00",6.90,-0.34
+18,15,Rome-old and Juli-eh,2007,"1,308.00",6.30,-1.07
+18,16,Homerazzi,2007,"1,338.00",7.10,-0.09
+18,17,Marge Gamer,2007,"1,490.00",7.30,0.15
+18,18,The Boys of Bummer,2007,"1,413.00",6.00,-1.43
+18,19,Crook and Ladder,2007,"1,252.00",7.00,-0.22
+18,20,Stop or My Dog Will Shoot,2007,"1,259.00",6.80,-0.46
+18,21,24 Minutes,2007,"2,257.00",8.10,1.12
+18,22,You Kent Always Say What You Want,2007,"1,432.00",7.20,0.03
+19,1,He Loves to Fly and He D'ohs,2007,"1,445.00",6.60,-0.70
+19,2,Homer of Seville,2007,"1,427.00",6.50,-0.82
+19,3,Midnight Towboy,2007,"1,354.00",7.10,-0.09
+19,4,I Don't Wanna Know Why the Caged Bird Sings,2007,"1,326.00",6.80,-0.46
+19,5,Treehouse of Horror XVIII,2007,"1,491.00",6.90,-0.34
+19,6,Little Orphan Millie,2007,"1,292.00",6.60,-0.70
+19,7,Husbands and Knives,2007,"1,432.00",7.00,-0.22
+19,8,Funeral for a Fiend,2007,"1,427.00",7.10,-0.09
+19,9,Eternal Moonshine of the Simpson Mind,2007,"2,026.00",8.20,1.24
+19,10,E Pluribus Wiggum,2008,"1,338.00",6.80,-0.46
+19,11,That '90s Show,2008,"1,905.00",6.30,-1.07
+19,12,"Love, Springfieldian Style",2008,"1,376.00",6.60,-0.70
+19,13,The DeBarted,2008,"1,659.00",7.60,0.51
+19,14,Dial 'N' for Nerder,2008,"1,392.00",7.40,0.27
+19,15,Smoke on the Daughter,2008,"1,299.00",6.70,-0.58
+19,16,Papa Don't Leech,2008,"1,235.00",6.10,-1.31
+19,17,Apocalypse Cow,2008,"1,316.00",6.80,-0.46
+19,18,Any Given Sundance,2008,"1,319.00",7.10,-0.09
+19,19,Mona Leaves-a,2008,"1,347.00",7.00,-0.22
+19,20,All About Lisa,2008,"1,207.00",6.40,-0.94
+20,1,"Sex, Pies and Idiot Scrapes",2008,"1,579.00",7.20,0.03
+20,2,Lost Verizon,2008,"1,426.00",6.80,-0.46
+20,3,"Double, Double, Boy in Trouble",2008,"1,368.00",6.90,-0.34
+20,4,Treehouse of Horror XIX,2008,161.00,7.10,-0.09
+20,5,Dangerous Curves,2008,"1,312.00",6.60,-0.70
+20,6,Homer and Lisa Exchange Cross Words,2008,"1,311.00",7.10,-0.09
+20,7,MyPods and Boomsticks,2008,"1,458.00",7.10,-0.09
+20,8,The Burns and the Bees,2008,"1,314.00",6.60,-0.70
+20,9,Lisa the Drama Queen,2009,"1,429.00",6.00,-1.43
+20,10,"Take My Life, Please",2009,"1,252.00",6.90,-0.34
+20,11,How the Test Was Won,2009,"1,259.00",7.00,-0.22
+20,12,"No Loan Again, Naturally",2009,"1,238.00",6.80,-0.46
+20,13,Gone Maggie Gone,2009,"1,396.00",7.20,0.03
+20,14,In the Name of the Grandfather,2009,127.00,6.40,-0.94
+20,15,Wedding for Disaster,2009,"1,213.00",6.60,-0.70
+20,16,Eeny Teeny Maya Moe,2009,"1,296.00",7.20,0.03
+20,17,"The Good, the Sad and the Drugly",2009,"1,315.00",7.20,0.03
+20,18,Father Knows Worst,2009,"1,224.00",7.00,-0.22
+20,19,"Waverly Hills, 9021-D'Oh",2009,"1,332.00",7.10,-0.09
+20,20,Four Great Women and a Manicure,2009,"1,228.00",6.50,-0.82
+20,21,Coming to Homerica,2009,"1,361.00",7.30,0.15
+21,1,Homer the Whopper,2009,"1,447.00",7.10,-0.09
+21,2,Bart Gets a 'Z',2009,"1,317.00",6.60,-0.70
+21,3,The Great Wife Hope,2009,"1,173.00",6.30,-1.07
+21,4,Treehouse of Horror XX,2009,"1,498.00",7.30,0.15
+21,5,The Devil Wears Nada,2009,"1,211.00",6.70,-0.58
+21,6,Pranks and Greens,2009,"1,197.00",6.60,-0.70
+21,7,Rednecks and Broomsticks,2009,"1,169.00",6.70,-0.58
+21,8,"Oh Brother, Where Bart Thou?",2009,"1,225.00",7.10,-0.09
+21,9,Thursdays with Abie,2010,"1,112.00",6.70,-0.58
+21,10,Once Upon a Time in Springfield,2010,"1,186.00",6.60,-0.70
+21,11,Million Dollar Maybe,2010,"1,145.00",7.10,-0.09
+21,12,Boy Meets Curl,2010,"1,202.00",6.80,-0.46
+21,13,The Color Yellow,2010,"1,192.00",6.60,-0.70
+21,14,Postcards from the Wedge,2010,"1,082.00",7.00,-0.22
+21,15,Stealing First Base,2010,"1,225.00",7.00,-0.22
+21,16,The Greatest Story Ever D'ohed,2010,"1,415.00",5.70,-1.80
+21,17,American History X-cellent,2010,"1,124.00",6.60,-0.70
+21,18,Chief of Hearts,2010,"1,106.00",6.90,-0.34
+21,19,The Squirt and the Whale,2010,"1,140.00",6.90,-0.34
+21,20,"To Surveil, with Love",2010,"1,175.00",7.20,0.03
+21,21,Moe Letter Blues,2010,"1,129.00",7.00,-0.22
+21,22,The Bob Next Door,2010,"1,246.00",7.30,0.15
+21,23,Judge Me Tender,2010,"1,172.00",6.50,-0.82
+22,1,Elementary School Musical,2010,"1,363.00",6.20,-1.19
+22,2,Loan-a Lisa,2010,"1,132.00",6.70,-0.58
+22,3,MoneyBart,2010,"1,187.00",6.70,-0.58
+22,4,Treehouse of Horror XXI,2010,"1,440.00",7.10,-0.09
+22,5,"Lisa Simpson, This Isn't Your Life",2010,"1,125.00",7.20,0.03
+22,6,The Fool Monty,2010,"1,100.00",6.50,-0.82
+22,7,How Munched Is That Birdie in the Window?,2010,"1,110.00",6.30,-1.07
+22,8,The Fight Before Christmas,2010,"1,219.00",6.80,-0.46
+22,9,Donnie Fatso,2010,"1,169.00",7.00,-0.22
+22,10,Moms I'd Like to Forget,2011,"1,047.00",6.30,-1.07
+22,11,Flaming Moe,2011,"1,152.00",6.70,-0.58
+22,12,Homer the Father,2011,"1,083.00",6.90,-0.34
+22,13,The Blue and the Gray,2011,"1,080.00",6.80,-0.46
+22,14,Angry Dad: The Movie,2011,"1,253.00",7.20,0.03
+22,15,The Scorpion's Tale,2011,"1,150.00",6.60,-0.70
+22,16,A Midsummer's Nice Dreams,2011,"1,074.00",6.10,-1.31
+22,17,Love Is a Many Strangled Thing,2011,"1,117.00",6.20,-1.19
+22,18,The Great Simpsina,2011,"1,114.00",6.80,-0.46
+22,19,The Real Housewives of Fat Tony,2011,"1,133.00",6.50,-0.82
+22,20,Homer Scissorhands,2011,"1,107.00",7.10,-0.09
+22,21,500 Keys,2011,"1,174.00",7.30,0.15
+22,22,The Ned-Liest Catch,2011,"1,182.00",6.90,-0.34
+23,1,The Falcon and the D'Ohman,2011,"1,369.00",7.10,-0.09
+23,2,Bart Stops to Smell the Roosevelts,2011,"1,233.00",7.00,-0.22
+23,3,Treehouse of Horror XXII,2011,"1,445.00",6.50,-0.82
+23,4,Replaceable You,2011,"1,103.00",6.40,-0.94
+23,5,The Food Wife,2011,"1,219.00",7.10,-0.09
+23,6,The Book Job,2011,"1,624.00",7.90,0.88
+23,7,The Man in the Blue Flannel Pants,2011,"1,083.00",6.70,-0.58
+23,8,The Ten-Per-Cent Solution,2011,"1,028.00",6.20,-1.19
+23,9,Holidays of Future Passed,2011,"2,027.00",8.30,1.37
+23,10,"Politically Inept, with Homer Simpson",2012,"1,155.00",6.00,-1.43
+23,11,The D'oh-cial Network,2012,"1,196.00",6.90,-0.34
+23,12,Moe Goes from Rags to Riches,2012,"1,247.00",5.80,-1.67
+23,13,The Daughter Also Rises,2012,"1,061.00",6.30,-1.07
+23,14,At Long Last Leave,2012,"1,230.00",6.90,-0.34
+23,15,Exit Through the Kwik-E-Mart,2012,"1,041.00",6.80,-0.46
+23,16,How I Wet Your Mother,2012,"1,242.00",7.30,0.15
+23,17,"Them, Robot",2012,"1,149.00",7.00,-0.22
+23,18,Beware My Cheating Bart,2012,"1,122.00",7.10,-0.09
+23,19,A Totally Fun Thing Bart Will Never Do Again,2012,"1,398.00",7.60,0.51
+23,20,The Spy Who Learned Me,2012,"9,790.00",6.80,-0.46
+23,21,Ned 'N Edna's Blend Agenda,2012,"1,075.00",6.60,-0.70
+23,22,Lisa Goes Gaga,2012,"2,950.00",4.00,-3.86
+24,1,Moonshine River,2012,"1,264.00",6.40,-0.94
+24,2,Treehouse of Horror XXIII,2012,"1,363.00",7.20,0.03
+24,3,Adventures in Baby-Getting,2012,"1,061.00",6.80,-0.46
+24,4,Gone Abie Gone,2012,"1,022.00",6.70,-0.58
+24,5,Penny-Wiseguys,2012,"9,830.00",6.40,-0.94
+24,6,A Tree Grows in Springfield,2012,"1,019.00",6.30,-1.07
+24,7,The Day the Earth Stood Cool,2012,"1,150.00",7.00,-0.22
+24,8,To Cur with Love,2012,"1,047.00",7.20,0.03
+24,9,Homer Goes to Prep School,2013,"9,780.00",6.70,-0.58
+24,10,A Test Before Trying,2013,"9,710.00",7.00,-0.22
+24,11,Changing of the Guardian,2013,"9,980.00",6.50,-0.82
+24,12,Love Is a Many Splintered Thing,2013,"1,056.00",6.30,-1.07
+24,13,Hardly Kirk-ing,2013,"1,009.00",7.00,-0.22
+24,14,Gorgeous Grampa,2013,"1,020.00",6.20,-1.19
+24,15,"Black-Eyed, Please",2013,"1,030.00",6.90,-0.34
+24,16,Dark Knight Court,2013,"1,045.00",7.10,-0.09
+24,17,What Animated Women Want,2013,"1,009.00",6.50,-0.82
+24,18,Pulpit Friction,2013,999.00,6.40,-0.94
+24,19,Whiskey Business,2013,926.00,6.80,-0.46
+24,20,The Fabulous Faker Boy,2013,966.00,6.30,-1.07
+24,21,The Saga of Carl,2013,"1,089.00",7.10,-0.09
+24,22,Dangers on a Train,2013,991.00,7.00,-0.22
+25,1,Homerland,2013,"1,319.00",6.90,-0.34
+25,2,Treehouse of Horror XXIV,2013,"1,405.00",6.90,-0.34
+25,3,Four Regrettings and a Funeral,2013,"1,077.00",6.40,-0.94
+25,4,YOLO,2013,"1,116.00",6.50,-0.82
+25,5,Labor Pains,2013,"1,044.00",6.90,-0.34
+25,6,The Kid Is All Right,2013,"1,114.00",6.40,-0.94
+25,7,Yellow Subterfuge,2013,"1,064.00",6.80,-0.46
+25,8,White Christmas Blues,2013,"1,061.00",6.50,-0.82
+25,9,Steal This Episode,2014,"1,476.00",7.70,0.64
+25,10,Married to the Blob,2014,"1,119.00",6.90,-0.34
+25,11,Specs and the City,2014,"1,042.00",7.10,-0.09
+25,12,Diggs,2014,"1,035.00",6.30,-1.07
+25,13,The Man Who Grew Too Much,2014,"1,112.00",6.60,-0.70
+25,14,The Winter of His Content,2014,"1,021.00",6.60,-0.70
+25,15,The War of Art,2014,988.00,6.90,-0.34
+25,16,You Don't Have to Live Like a Referee,2014,"1,024.00",6.70,-0.58
+25,17,Luca$,2014,103.00,6.40,-0.94
+25,18,Days of Future Future,2014,"1,165.00",7.00,-0.22
+25,19,What to Expect When Bart's Expecting,2014,102.00,5.80,-1.67
+25,20,Brick Like Me,2014,"1,661.00",7.90,0.88
+25,21,Pay Pal,2014,999.00,6.60,-0.70
+25,22,The Yellow Badge of Cowardge,2014,999.00,6.60,-0.70
+26,1,Clown in the Dumps,2014,"1,316.00",5.70,-1.80
+26,2,The Wreck of the Relationship,2014,"1,092.00",6.80,-0.46
+26,3,Super Franchise Me,2014,"1,036.00",6.40,-0.94
+26,4,Treehouse of Horror XXV,2014,"1,403.00",7.50,0.39
+26,5,Opposites A-Frack,2014,998.00,6.30,-1.07
+26,6,Simpsorama,2014,"2,004.00",7.90,0.88
+26,7,Blazed and Confused,2014,"1,074.00",6.80,-0.46
+26,8,Covercraft,2014,"1,027.00",6.40,-0.94
+26,9,I Won't Be Home for Christmas,2014,"1,023.00",6.80,-0.46
+26,10,The Man Who Came to Be Dinner,2015,"1,227.00",6.70,-0.58
+26,11,Bart's New Friend,2015,106.00,7.10,-0.09
+26,12,The Musk Who Fell to Earth,2015,"1,157.00",5.60,-1.92
+26,13,Walking Big & Tall,2015,928.00,6.30,-1.07
+26,14,My Fare Lady,2015,914.00,6.60,-0.70
+26,15,The Princess Guide,2015,939.00,6.40,-0.94
+26,16,Sky Police,2015,962.00,6.70,-0.58
+26,17,Waiting for Duffman,2015,917.00,6.60,-0.70
+26,18,Peeping Mom,2015,872.00,6.60,-0.70
+26,19,The Kids Are All Fight,2015,884.00,6.80,-0.46
+26,20,Let's Go Fly a Coot,2015,865.00,6.10,-1.31
+26,21,Bull-E,2015,883.00,6.50,-0.82
+26,22,Mathlete's Feat,2015,929.00,6.70,-0.58
+27,1,Every Man's Dream,2015,"1,259.00",5.70,-1.80
+27,2,Cue Detective,2015,105.00,6.50,-0.82
+27,3,Puffless,2015,"1,018.00",6.90,-0.34
+27,4,Halloween of Horror,2015,"1,396.00",7.50,0.39
+27,5,Treehouse of Horror XXVI,2015,"1,124.00",6.50,-0.82
+27,6,Friend with Benefit,2015,910.00,6.60,-0.70
+27,7,"Lisa with an ""S""",2015,922.00,5.90,-1.55
+27,8,Paths of Glory,2015,897.00,6.70,-0.58
+27,9,Barthood,2015,"2,029.00",8.30,1.37
+27,10,The Girl Code,2016,998.00,6.60,-0.70
+27,11,Teenage Mutant Milk-Caused Hurdles,2016,931.00,6.60,-0.70
+27,12,Much Apu About Something,2016,880.00,6.50,-0.82
+27,13,Love Is in the N2-O2-Ar-CO2-Ne-He-CH4,2016,840.00,6.40,-0.94
+27,14,Gal of Constant Sorrow,2016,957.00,6.50,-0.82
+27,15,Lisa the Veterinarian,2016,860.00,6.40,-0.94
+27,16,The Marge-ian Chronicles,2016,915.00,7.00,-0.22
+27,17,The Burns Cage,2016,840.00,6.30,-1.07
+27,18,How Lisa Got Her Marge Back,2016,800.00,6.20,-1.19
+27,19,Fland Canyon,2016,907.00,7.10,-0.09
+27,20,To Courier with Love,2016,791.00,6.70,-0.58
+27,21,Simprovised,2016,817.00,6.30,-1.07
+27,22,Orange Is the New Yellow,2016,839.00,6.60,-0.70
+28,1,Monty Burns' Fleeing Circus,2016,942.00,6.00,-1.43
+28,2,Friends and Family,2016,881.00,6.60,-0.70
+28,3,The Town,2016,992.00,7.00,-0.22
+28,4,Treehouse of Horror XXVII,2016,"1,096.00",6.90,-0.34
+28,5,Trust But Clarify,2016,821.00,6.30,-1.07
+28,6,There Will Be Buds,2016,827.00,6.60,-0.70
+28,7,Havana Wild Weekend,2016,813.00,6.20,-1.19
+28,8,Dad Behavior,2016,793.00,6.50,-0.82
+28,9,The Last Traction Hero,2016,752.00,6.30,-1.07
+28,10,The Nightmare After Krustmas,2016,816.00,5.90,-1.55
+28,11,Pork and Burns,2017,807.00,6.70,-0.58
+28,12,The Great Phatsby,2017,994.00,6.10,-1.31
+28,13,Fatzcarraldo,2017,775.00,6.30,-1.07
+28,14,The Cad and the Hat,2017,773.00,6.40,-0.94
+28,15,Kamp Krustier,2017,777.00,6.50,-0.82
+28,16,22 for 30,2017,819.00,6.50,-0.82
+28,17,A Father's Watch,2017,789.00,6.80,-0.46
+28,18,The Caper Chase,2017,813.00,6.10,-1.31
+28,19,Looking for Mr. Goodbart,2017,781.00,6.80,-0.46
+28,20,Moho House,2017,730.00,6.10,-1.31
+28,21,Dogtown,2017,737.00,6.40,-0.94
+29,1,The Serfsons,2017,"1,202.00",6.80,-0.46
+29,2,Springfield Splendor,2017,953.00,6.50,-0.82
+29,3,Whistler's Father,2017,852.00,6.10,-1.31
+29,4,Treehouse of Horror XXVIII,2017,"1,167.00",7.00,-0.22
+29,5,Grampy Can Ya Hear Me,2017,819.00,6.30,-1.07
+29,6,The Old Blue Mayor She Ain't What She Used To Be,2017,825.00,6.30,-1.07
+29,7,Singin' in the Lane,2017,818.00,6.40,-0.94
+29,8,Mr. Lisa's Opus,2017,910.00,6.80,-0.46
+29,9,Gone Boy,2017,983.00,7.10,-0.09
+29,10,Haw-Haw Land,2018,851.00,6.40,-0.94
+29,11,Frink Gets Testy,2018,770.00,6.20,-1.19
+29,12,Homer is Where the Art Isn't,2018,843.00,6.60,-0.70
+29,13,3 Scenes Plus a Tag from a Marriage,2018,766.00,6.50,-0.82
+29,14,Fears of a Clown,2018,724.00,6.00,-1.43
+29,15,No Good Read Goes Unpunished,2018,738.00,6.20,-1.19
+29,16,King Leer,2018,718.00,6.20,-1.19
+29,17,Lisa Gets the Blues,2018,797.00,6.70,-0.58
+29,18,Forgive and Regret,2018,799.00,6.90,-0.34
+29,19,Left Behind,2018,742.00,6.60,-0.70
+29,20,Throw Grampa from the Dane,2018,809.00,6.60,-0.70
+29,21,Flanders' Ladder,2018,"1,089.00",7.50,0.39
+30,1,Bart's Not Dead,2018,103.00,6.20,-1.19
+30,2,Heartbreak Hotel,2018,922.00,6.00,-1.43
+30,3,My Way or the Highway to Heaven,2018,879.00,6.10,-1.31
+30,4,Treehouse of Horror XXIX,2018,"1,005.00",5.90,-1.55
+30,5,Baby You Can't Drive My Car,2018,838.00,6.90,-0.34
+30,6,From Russia Without Love,2018,782.00,6.50,-0.82
+30,7,Werking Mom,2018,921.00,5.70,-1.80
+30,8,Krusty the Clown,2018,756.00,6.40,-0.94
+30,9,Daddicus Finch,2018,765.00,6.70,-0.58
+30,10,Tis the 30th Season,2018,761.00,6.70,-0.58
+30,11,Mad About the Toy,2019,882.00,5.80,-1.67
+30,12,The Girl on the Bus,2019,783.00,6.40,-0.94
+30,13,I'm Dancing as Fat as I Can,2019,767.00,6.80,-0.46
+30,14,The Clown Stays in the Picture,2019,711.00,6.20,-1.19
+30,15,101 Mitigations,2019,667.00,6.40,-0.94
+30,16,I Want You (She's So Heavy),2019,681.00,5.80,-1.67
+30,17,E My Sports,2019,741.00,6.40,-0.94
+30,18,Bart vs. Itchy & Scratchy,2019,"1,444.00",4.80,-2.89
+30,19,Girl's in the Band,2019,712.00,6.40,-0.94
+30,20,I'm Just a Girl Who Can't Say D'oh,2019,721.00,5.50,-2.04
+30,21,D'oh Canada,2019,853.00,5.60,-1.92
+30,22,Woo-Hoo Dunnit?,2019,718.00,6.10,-1.31
+30,23,Crystal Blue-Haired Persuasion,2019,683.00,6.10,-1.31
+31,1,The Winter of Our Monetized Content,2019,980.00,5.90,-1.55
+31,2,Go Big or Go Homer,2019,879.00,5.90,-1.55
+31,3,The Fat Blue Line,2019,785.00,6.50,-0.82
+31,4,Treehouse of Horror XXX,2019,980.00,6.80,-0.46
+31,5,Gorillas on the Mast,2019,731.00,6.20,-1.19
+31,6,Marge the Lumberjill,2019,822.00,5.60,-1.92
+31,7,Livin la Pura Vida,2019,781.00,6.50,-0.82
+31,8,Thanksgiving of Horror,2019,972.00,7.30,0.15
+31,9,"Todd, Todd, Why Hast Thou Forsaken Me?",2019,868.00,6.50,-0.82
+31,10,"Bobby, It's Cold Outside",2019,702.00,6.50,-0.82
+31,11,Hail to the Teeth,2020,635.00,6.00,-1.43
+31,12,The Miseducation of Lisa Simpson,2020,643.00,6.50,-0.82
+31,13,Frinkcoin,2020,616.00,5.90,-1.55
+31,14,Bart the Bad Guy,2020,831.00,7.10,-0.09
+31,15,Screenless,2020,625.00,6.50,-0.82
+31,16,Better Off Ned,2020,600.00,6.40,-0.94
+31,17,Highway to Well,2020,674.00,6.90,-0.34
+31,18,The Incredible Lightness of Being a Baby,2020,587.00,6.30,-1.07
+31,19,Warrin' Priests,2020,693.00,6.10,-1.31
+31,20,Warrin' Priests Part 2,2020,657.00,5.70,-1.80
+31,21,The Hateful Eight-Year-Olds,2020,657.00,6.50,-0.82
+31,22,The Way of the Dog,2020,801.00,7.40,0.27
+32,1,Undercover Burns,2020,865.00,6.50,-0.82
+32,2,"I, Carumbus",2020,824.00,6.80,-0.46
+32,3,"Now Museum, Now You Don't",2020,733.00,5.70,-1.80
+32,4,Treehouse of Horror XXXI,2020,"1,027.00",6.10,-1.31
+32,5,The 7 Beer Itch,2020,729.00,5.70,-1.80
+32,6,Podcast News,2020,676.00,6.60,-0.70
+32,7,Three Dreams Denied,2020,622.00,6.20,-1.19
+32,8,The Road to Cincinnati,2020,738.00,6.60,-0.70
+32,9,Sorry Not Sorry,2020,636.00,6.20,-1.19
+32,10,A Springfield Summer Christmas for Christmas,2020,710.00,6.20,-1.19
+32,11,The Dad-Feelings Limited,2021,813.00,7.00,-0.22
+32,12,Diary Queen,2021,689.00,6.80,-0.46
+32,13,Wad Goals,2021,589.00,6.20,-1.19
+32,14,Yokel Hero,2021,545.00,5.50,-2.04
+32,15,Do Pizza Bots Dream of Electric Guitars,2021,573.00,5.90,-1.55
+32,16,Manger Things,2021,546.00,6.40,-0.94
+32,17,Uncut Femmes,2021,565.00,6.40,-0.94
+32,18,Burger Kings,2021,523.00,6.60,-0.70
+32,19,Panic on the Streets of Springfield,2021,660.00,6.10,-1.31
+32,20,Mother and Child Reunion,2021,509.00,6.70,-0.58
+32,21,The Man from G.R.A.M.P.A.,2021,467.00,6.20,-1.19
+32,22,The Last Barfighter,2021,583.00,7.40,0.27
+33,1,The Star of the Backstage,2021,963.00,4.30,-3.50
+33,2,Bart's in Jail!,2021,606.00,7.00,-0.22
+33,3,Treehouse of Horror XXXII,2021,641.00,6.70,-0.58
+33,4,The Wayz We Were,2021,507.00,6.80,-0.46
+33,5,Lisa's Belly,2021,580.00,6.70,-0.58
+33,6,A Serious Flanders,2021,837.00,8.20,1.24
+33,7,A Serious Flanders: Part 2,2021,712.00,8.20,1.24
+33,8,Portrait of a Lackey on Fire,2021,531.00,6.00,-1.43
+33,9,Mothers and Other Strangers,2021,422.00,6.30,-1.07
+33,10,A Made Maggie,2021,402.00,6.90,-0.34
+33,11,The Longest Marge,2022,371.00,5.80,-1.67
+33,12,Pixelated and Afraid,2022,492.00,7.50,0.39
+33,13,Boyz N the Highlands,2022,352.00,6.50,-0.82
+33,14,You Won't Believe What This Episode Is About - Act Three Will...,2022,351.00,6.20,-1.19
+33,15,Bart the Cool Kid,2022,333.00,6.40,-0.94
+33,16,Pretty Whittle Liar,2022,292.00,6.20,-1.19
+33,17,The Sound of Bleeding Gums,2022,332.00,5.70,-1.80
+33,18,My Octopus and a Teacher,2022,302.00,6.50,-0.82
+33,19,Girls Just Shauna Have Fun,2022,276.00,6.60,-0.70
+33,20,Marge the Meanie,2022,253.00,6.60,-0.70
+33,21,Meat Is Murder,2022,274.00,5.70,-1.80
+33,22,Poorhouse Rock,2022,416.00,5.40,-2.16
